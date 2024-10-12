@@ -2,6 +2,7 @@
 <h3 align="center">A passionate full stack developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on [E-ticaret](https://github.com/ruslansfrov236/EticaretApi)
+- 🔭 I’m currently working on [Bytez](https://github.com/ruslansfrov236/Bytez)
 
 - 📫 How to reach me **ruslansfrov236@gmail.com**
 
