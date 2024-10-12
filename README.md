@@ -1,4 +1,4 @@
- ![MasterHead](https://i.pinimg.com/564x/20/0a/07/200a072465dc3c288a1d5780105705f7.jpg)
+ ![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgloriumtech.com%2Ffull-stack-development-services%2F&psig=AOvVaw3MrqDhXv-S6gGrCqrOQJy8&ust=1728849696044000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKC675nRiYkDFQAAAAAdAAAAABAZ)
 <h1 align="center">Hi 👋, I'm ruslansfrov236</h1>
 <h3 align="center">A passionate full stack developer from Azerbaijan</h3>
 
