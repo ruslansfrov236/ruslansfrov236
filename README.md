@@ -1,4 +1,4 @@
- 
+ ![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm ruslansfrov236</h1>
 <h3 align="center">A passionate full stack developer from Azerbaijan</h3>
 
