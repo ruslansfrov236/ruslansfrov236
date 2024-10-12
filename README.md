@@ -1,4 +1,4 @@
- ![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Ffull-stack-developers-icon&psig=AOvVaw0TT0f5HsDiAgYgdfP5JYDq&ust=1728849889949000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjZr-Dt0YmJAxWFOhAIHfmcAp8QjRx6BAgAEBg)
+ ![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Ffull-stack-developersicon&psig=AOvVaw0TT0f5HsDiAgYgdfP5JYDq&ust=1728849889949000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjZr-Dt0YmJAxWFOhAIHfmcAp8QjRx6BAgAEBg)
 <h1 align="center">Hi 👋, I'm ruslansfrov236</h1>
 <h3 align="center">A passionate full stack developer from Azerbaijan</h3>
 
