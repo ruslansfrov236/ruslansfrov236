@@ -1,4 +1,4 @@
- [![MasterHead](https://www.google.com/imgres?q=c%23&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*_NVBTVdmjt3Qvq3CZOySXg.png&imgrefurl=https%3A%2F%2Famsayed.medium.com%2Fusing-c-for-data-engineering-intro-7bfc22b2c3bf&docid=QiaKR3GGsbcJUM&tbnid=dXdOQnz9uXv_sM&vet=12ahUKEwi62rn5yomJAxVeKhAIHarIC6gQM3oECGMQAA..i&w=1400&h=788&hcb=2&ved=2ahUKEwi62rn5yomJAxVeKhAIHarIC6gQM3oECGMQAA)
+ [![MasterHead](https://www.pinterest.com/pin/929289704360318476/)
 <h1 align="center">Hi 👋, I'm ruslansfrov236</h1>
 <h3 align="center">A passionate full stack developer from Azerbaijan</h3>
 
