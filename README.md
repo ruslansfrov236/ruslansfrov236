@@ -1,4 +1,4 @@
- ![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)
+ ![MasterHead](https://i.pinimg.com/564x/20/0a/07/200a072465dc3c288a1d5780105705f7.jpg)
 <h1 align="center">Hi 👋, I'm ruslansfrov236</h1>
 <h3 align="center">A passionate full stack developer from Azerbaijan</h3>
 
