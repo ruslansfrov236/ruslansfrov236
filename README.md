@@ -11,8 +11,8 @@
 <p align="left">
     <!-- Add your social media links or contact info here -->
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+<div style="margin:40px 0;">
+    <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -72,6 +72,8 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
     </a> 
 </p>
+
+</div>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruslansfrov236&show_icons=true&locale=en&layout=compact" alt="ruslansfrov236" />
