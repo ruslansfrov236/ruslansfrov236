@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/ruslansfrov236" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
 </a>
-<a href="https://github.com/ruslansfrov236" target="blank">
+<a href="[https://github.com/ruslansfrov236](https://www.linkedin.com/in/ruslan-s%C9%99f%C9%99rov-113034286)" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" width="40" />
 </a>
 <a href="mailto:ruslansfrov236@gmail.com" target="blank">
