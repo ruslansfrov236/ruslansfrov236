@@ -3,36 +3,36 @@
 
 ---
 
-### 🚀 Current Projects:
-- 🔭 I’m currently working on [Ecobony](https://github.com/ruslansfrov236/Ecobony)
-- 🔭 I’m currently working on [E-ticaret](https://github.com/ruslansfrov236/EticaretApi)
-- 🔭 I’m currently working on [Bytez](https://github.com/ruslansfrov236/Bytez)
-- 🔭 I’m currently working on [ExpertApp](https://github.com/ruslansfrov236/Tile.ExpertApp)
+### 🚀 Current Projects
+- 🔭 Working on [Ecobony](https://github.com/ruslansfrov236/Ecobony)
+- 🛒 Building [E-ticaret API](https://github.com/ruslansfrov236/EticaretApi)
+- 💡 Developing [Bytez](https://github.com/ruslansfrov236/Bytez)
+- 🧠 Working on [ExpertApp](https://github.com/ruslansfrov236/Tile.ExpertApp)
 
 ---
 
-### 📫 How to reach me:
+### 📫 How to Reach Me
 **Email:** [ruslansfrov236@gmail.com](mailto:ruslansfrov236@gmail.com)
 
 ---
 
-### 🤝 Connect with me:
+### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/ruslansfrov236" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
-</a>
-<a href="[https://github.com/ruslansfrov236](https://www.linkedin.com/in/ruslan-s%C9%99f%C9%99rov-113034286)" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" width="40" />
-</a>
-<a href="mailto:ruslansfrov236@gmail.com" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="40" width="40" />
-</a>
+  <a href="https://linkedin.com/in/ruslan-səfərov-113034286" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://github.com/ruslansfrov236" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" width="40" />
+  </a>
+  <a href="mailto:ruslansfrov236@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="40" width="40" />
+  </a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools:
-<p align="center"> 
+### 🧰 Languages and Tools
+<p align="center">
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
@@ -51,11 +51,15 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruslansfrov236&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruslansfrov236&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruslansfrov236&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruslansfrov236&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruslansfrov236&theme=tokyonight" alt="GitHub Streak" />
 </p>
